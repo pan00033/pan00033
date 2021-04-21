@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John.
-- 👀 I’m interested in starting a career in Software Engineering with focus on Web development. 
+- 👀 I’m interested in starting a career in Software Engineering.
 - 🌱 I’m currently a Junior student studying CS/MATH/STATS at University of Minnesota Duluth.
 - 💞️ I’m constantly building side projects to broaden my programming knowledge. 
 - 📫 How to reach me: zuxingp888@gmail.com
